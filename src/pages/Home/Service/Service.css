@@ -1,0 +1,32 @@
+.service-container {
+    border: 1px solid green;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.service-container img {
+    width: 100%;
+}
+
+.service-container h3,
+p {
+    color: blue;
+}
+
+.service-btn {
+    margin-top: 30px;
+
+}
+
+.service-btn button {
+    background-color: yellowgreen;
+    color: white;
+}
+
+.service-btn button:hover {
+    background-color: antiquewhite;
+    color: black;
+
+}
